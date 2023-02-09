@@ -1,0 +1,27 @@
+body{
+    font-size: 20px;
+    background-color: beige;
+    background-image: url(https://yummyindiankitchen.com/wp-content/uploads/2015/08/chicken-dum-biryani-hyderabadi.jpg);
+    background-position: center;
+    color: rgba(249, 247, 246, 0.899);
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(242, 7, 7);
+}
+h2{
+text-align: center;
+}
+title
+{
+    font-style:oblique;
+    font-weight: 400;
+}
+ul
+{
+    font-style:italic;
+}
+ol{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
